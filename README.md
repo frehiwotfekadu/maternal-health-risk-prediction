@@ -44,8 +44,8 @@ All libraries are standard within common scientific Python distributions (e.g., 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
-   cd <repository-folder>
+   git clone <https://github.com/frehiwotfekadu/maternal-health-risk-prediction.git>
+   cd <maternal-health-risk-prediction>
    ```
 
 2. Open the notebook:
