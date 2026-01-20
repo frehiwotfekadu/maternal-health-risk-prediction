@@ -1,0 +1,43 @@
+# Jupyter and IPython
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output files
+figures/           # If you save figures
+outputs/           # If you save outputs
+*.png
+*.jpg
+*.pdf
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
